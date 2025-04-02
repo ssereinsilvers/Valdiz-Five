@@ -1,2 +1,2 @@
 # Valdiz-Five
-Website for school purposes
+Website for school purposes.
